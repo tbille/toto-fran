@@ -2,7 +2,7 @@ name: tbmb-bsi-test
 version: '0.1'
 summary: Holaaaaaa
 description: |
-  This snap will be THE snap that will change everything
+  This snap will be THE snap that will change everything toto
 parts:
   my-part:
     # See 'snapcraft plugins'
